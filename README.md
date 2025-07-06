@@ -10,14 +10,29 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=false&hide=contribs&custom_title=Public%20Repositories" />
+</p>
   <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
   <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
   <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
 </p>
 
+<!-- Vertical Badge Tech Stack -->
+### 💻 Frontend Frameworks & Libraries
 
+- ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js)
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+- ![Svelte](https://img.shields.io/badge/-Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6f42c1?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
 
 <!-- Embedded Code Snippet Image -->
 
