@@ -8,6 +8,42 @@
 
 ---
 
+
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</p>
+
+```js
+// コードは詩のようなものだ
+try {
+  const hexa = await Universe.compile({
+    type: "開発者",
+    buildPath: "./虚無/から/創造",
+    mode: "不思議だが優雅"
+  });
+
+  hexa.execute();
+} catch (存在) {
+  // Every line of code I write is either a poem or a curse
+  console.dark("彷徨う者が皆、迷子なわけではない。デバッグしているだけだ。");
+}
+
+
+
+
+
+
+
 ## 👨‍💻 About Me
 
 - 💼 Full Stack Developer  
