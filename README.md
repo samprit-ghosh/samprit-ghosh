@@ -10,6 +10,9 @@
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sampritghosh&label=Profile%20views&color=6d64f2&style=flat" alt="Profile views" />
+</p>
 
 
 ```js
