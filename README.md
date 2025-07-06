@@ -9,13 +9,18 @@
 ---
 
 
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+  <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
+</p>
 
 
 
 <!-- Embedded Code Snippet Image -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/profile_code_snippet_small.png" alt="code-poetry" style="max-width: 100%; border-radius: 12px;" />
-</p>
+
 
 <!-- Profile Views Counter -->
 <p align="center">
