@@ -14,11 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=false&hide=contribs&custom_title=Public%20Repositories" />
 </p>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
-  <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=flat-square" />
-</p>
+
 
 <!-- Vertical Badge Tech Stack -->
 ### 💻 Frontend Frameworks & Libraries
