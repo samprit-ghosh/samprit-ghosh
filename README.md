@@ -35,7 +35,12 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=6d64f2&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samprit-ghosh&label=Profile%20views&color=6d64f2&style=flat" alt="Profile views" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&count_private=true&theme=default" />
 </p>
 
 <!-- Public Repositories Count -->
