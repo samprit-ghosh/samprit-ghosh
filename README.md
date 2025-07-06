@@ -23,17 +23,7 @@
 </p>
 
 <!-- Public Repositories Count -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
-    &show_icons=true
-    &include_all_commits=true
-    &count_private=false
-    &theme=default
-    &hide_title=true
-    &custom_title=Public%20Repos" 
-    alt="Public Repos">
-</p>
+
 
 
 ```js
