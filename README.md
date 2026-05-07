@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋 || こんにちは 👋 || سلام هلته 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding gif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkdmZ4ZzR1eXo5YzFtbHg4Z3Bocjk3aDJ0dXU5eTc1cGQ2b3FwbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" alt="Coding gif" />
 </p>
 
 ---
@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samprit-ghosh&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samprit-ghosh&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
