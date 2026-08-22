@@ -36,12 +36,17 @@
 
 ### 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samprit-ghosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samprit-ghosh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 <br>
 
 ### 💻 Code Philosophy
