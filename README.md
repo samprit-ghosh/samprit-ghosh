@@ -58,13 +58,13 @@ I am a Senior Full Stack Engineer specializing in scalable web architectures, pr
 
 ### 🔹 GitHub Analytics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true&ring_color=3B82F6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6" alt="GitHub Streak" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <br><br>
+<br>
 
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
+</p>
