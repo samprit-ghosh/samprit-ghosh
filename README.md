@@ -15,9 +15,11 @@
 
 I am a Senior Full Stack Engineer specializing in scalable web architectures, predictive modeling, and AI-driven platforms. My focus is on transforming complex business requirements into high-performance, maintainable software systems. 
 
-*   **Core Focus:** Distributed systems, cloud-native architectures, and integrating LLMs into production environments.
-*   **Current Endeavors:** Architecting **Planora**, an AI-powered travel suggestion engine utilizing large language models, alongside developing custom digital platforms like the **Studio Musu Photography** application.
-*   **Technical Philosophy:** I prioritize clean code, strict typed languages, responsive design, and robust API infrastructure over temporary trends.
+🎯 **Core Focus:** Distributed systems, cloud-native architectures, and integrating LLMs into production environments.
+
+🚀 **Current Endeavors:** Architecting **Planora**, an AI-powered travel suggestion engine utilizing large language models, alongside developing custom digital platforms like the **Studio Musu Photography** application.
+
+💡 **Technical Philosophy:** I prioritize clean code, strict typed languages, responsive design, and robust API infrastructure over temporary trends.
 
 ---
 
@@ -27,25 +29,25 @@ I am a Senior Full Stack Engineer specializing in scalable web architectures, pr
   <tr>
     <td align="center" width="33%">
       <b>🧠 Core Languages</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,html,css" alt="" /></a>
     </td>
     <td align="center" width="33%">
       <b>🚀 Frameworks & Libraries</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,react,express,tailwind,tensorflow" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next,react,express,tailwind,tensorflow" alt="" /></a>
     </td>
     <td align="center" width="33%">
       <b>⚙️ Infrastructure & Cloud</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,graphql" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,graphql" alt="" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <b>📝 Databases & Caching</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="" /></a>
     </td>
     <td align="center" width="33%">
       <b>🛠️ CI/CD & Tooling</b><br><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,githubactions,jest,postman" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,githubactions,jest,postman" alt="" /></a>
     </td>
     <td align="center" width="33%">
       <b>📈 System Analytics</b><br><br>
@@ -59,12 +61,12 @@ I am a Senior Full Stack Engineer specializing in scalable web architectures, pr
 ### 🔹 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&count_private=true&hide=contribs&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samprit-ghosh&show_icons=true&hide_title=true&hide=contribs&theme=tokyonight&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samprit-ghosh&theme=tokyonight&hide_border=true" alt="" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="" />
 </p>
