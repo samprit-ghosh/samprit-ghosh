@@ -2,7 +2,7 @@
 
 # Hello there, I'm Samprit Ghosh 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Building+scalable+web+apps;Writing+clean,+efficient+code;Cloud+Architecture+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+AI-Powered+Web+Apps;Writing+clean,+efficient+code;Cloud+&+LLM+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samprit-ghosh&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />
@@ -11,16 +11,24 @@
 ### 👨‍💻 About Me
 
 **Passionate about building scalable applications and solving complex problems with simple, elegant solutions.**<br>
-🌱 Currently exploring advanced system design and cloud-native architectures.<br>
-💼 Dedicated to clean code, best practices, and continuous learning.
+🌱 Currently exploring advanced system design, LLM integrations, and predictive modeling (TensorFlow).<br>
+💼 Dedicated to clean code, seamless UI/UX, and continuous learning.
 
 <br>
 
 ### 📫 Let's Connect
 
-<a href="https://samprit-ghosh.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-update-eta-puce.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/samprit-ghosh-5a8a1119b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sampritghosh310@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br>
+
+### 🚀 Featured Projects
+
+| 🌍 Planora | 📸 Studio Musu Photography |
+| :--- | :--- |
+| An AI-powered travel suggestion webpage leveraging LLM models to curate personalized journeys and itineraries. | A dedicated application and digital platform for a photography business, featuring custom UI and media integration. |
 
 <br>
 
@@ -28,7 +36,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,next,html,css,tailwind,nodejs,express,graphql,mongodb,postgres,mysql,redis,docker,aws,githubactions,nginx,git,postman,jest&perline=11" alt="Tech Stack Grid" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,next,html,css,tailwind,nodejs,express,graphql,mongodb,postgres,mysql,redis,docker,aws,tensorflow,nginx,git,postman,jest&perline=11" alt="Tech Stack Grid" />
+  </a>
+</p>
+
+<br>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=samprit-ghosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="samprit-ghosh trophies" />
   </a>
 </p>
 
@@ -66,8 +84,8 @@ const samprit: Developer = {
   role: "Full Stack Developer",
   passions: [
     "Building robust, scalable applications",
-    "Clean code & best practices",
-    "Continuous learning"
+    "Integrating AI & Predictive Models",
+    "Clean code & best practices"
   ],
   
   async solve(problem) {
